@@ -70,7 +70,7 @@ public class Main {
 	}
 	
 	private static void imprimirLinha(int n, String tipo, double tempoI, double tempoB, int altura) {
-		System.out.printf("%d\t| %s\t| %.4f ms\t| %d\n", n, tipo, tempoI, tempoB, altura);
+		System.out.printf("%d\t| %s\t| %.4f ms\t| %.4f ms\t| %d\n", n, tipo, tempoI, tempoB, altura);
 	}
 	
 	private static void executarTSP(int n) {
