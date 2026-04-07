@@ -62,13 +62,13 @@ Feito isso, você estará dentro da pasta do projeto.
 
 2. Agora, você deverá copiar o seguinte comando:
 ```bash
-javac -d . src/modelos/*.java src/algoritmos/*.java src/principal/*.java
+javac -d bin src/modelos/*.java src/algoritmos/*.java src/principal/*.java
 ```
 insira o comando e digite Enter.
 
 Por fim, basta copiar o seguinte comando:
 ```bash
-java principal.Main
+java -cp bin principal.Main
 ```
 Insira no prompt de comando e pronto, o código estará rodando.
 
