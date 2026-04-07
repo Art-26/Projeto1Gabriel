@@ -56,7 +56,7 @@ public class Main {
 				alturaARN += arn.obterAltura();
 			}
 			
-			imprimirLinha(n, "BSTt", tempoABB / 30, buscaABB / 30, alturaABB / 30);
+			imprimirLinha(n, "BST", tempoABB / 30, buscaABB / 30, alturaABB / 30);
 			imprimirLinha(n, "AVL", tempoAVL / 30, buscaAVL / 30, alturaAVL / 30);
 			imprimirLinha(n, "ARN", tempoARN / 30, buscaARN / 30, alturaARN / 30);
 			System.out.println("-----------------------------------------------------");
