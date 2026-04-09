@@ -33,7 +33,7 @@ O projeto irá aparecer na tela ao lado, em **Package Explorer**
 
 Por fim, basta dar dois cliques em **Projeto1Gabriel > TrabalhosGabriel/src > principal > Main.java**
 
-tendo selecionado o arquivo Main.java, basta clicar em **Run**, que está localizado na barra superior, ou clicar no ícone Verde de Iniciar, que está localizado abaixo da barra superior, entre as opções **Search** e **Project**. (Atalho: Ctrl + F11) em alguns teclados pode ser necessário o Fn (Ctrl + Fn + F11).
+tendo selecionado o arquivo Main.java, basta clicar em **Run**, que está localizado na barra superior, ou clicar no ícone Verde de Iniciar, que está localizado abaixo da barra superior, ao lado do ícone de um inseto (tipo um besouro). (Atalho: Ctrl + F11) em alguns teclados pode ser necessário o Fn (Ctrl + Fn + F11).
 
 ---
 ## Como executar projeto no IntelliJ
