@@ -8,7 +8,7 @@
 > É recomendado rodar o projeto em uma IDE própria para Java (como IntelliJ ou Eclipse).
 
 ### Como clonar o repositório para sua máquina:
-Para rodar o projeto na IDE Eclipse, é bem simples, primeiramente você deve clonar o repositório, para isso, utilize o código abaixo:
+Para clonar o repositório, é bem simples, para isso, utilize o comando abaixo:
 ```bash
 git clone https://github.com/Art-26/Projeto1Gabriel.git
 ```
@@ -21,7 +21,7 @@ No prompt de comando, você deverá escolher em qual diretório ou pasta será c
 ```bash
 cd C:\Users\SEU_USUARIO\Downloads
 ```
-Feito isso, ainda no prompt de comando, você irá colar o código do git clone e dar um Enter.
+Feito isso, ainda no prompt de comando, você irá colar o comando do git clone e dar um Enter.
 
 ---
 ## Como executar projeto no Eclipse
